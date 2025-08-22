@@ -42,7 +42,7 @@ export const stringsMenu: StringsMenu = {
         "We craft worlds, characters, and moments with anime aesthetics. Illustration, motion, interactive experiences, and more.",
       buttons: [
         { text: "View Portfolio", href: "#portfolio" },
-        { text: "Make It Anime! (Try it Now!)", href: "#make-it-anime" },
+        { text: "See My Projects!", href: "#projects" },
       ],
     },
   },
